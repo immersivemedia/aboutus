@@ -288,7 +288,7 @@ background-color: #f8f9fa00!important;
             color: #ffaa4f;
             text-transform: uppercase;
             font-family: 'Roboto', sans-serif;
-            font-size: 35px;
+            font-size: 30px;
             list-style: none;
       }
 
@@ -299,7 +299,7 @@ background-color: #f8f9fa00!important;
       nav ul li {
             box-sizing: border-box;
             width: 100%;
-            margin: -18px;
+            margin: -6px;
             text-align: center;
       }
 
